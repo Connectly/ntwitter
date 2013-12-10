@@ -11,7 +11,7 @@
   },
   "repository": { 
     "type": "git", 
-    "url": "http://github.com/AvianFlu/ntwitter.git"
+    "url": "http://github.com/SayGoSolutions/ntwitter.git"
   }, 
   "dependencies": { 
     "oauth": ">=0.8.4", 
